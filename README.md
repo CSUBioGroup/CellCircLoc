@@ -112,7 +112,7 @@ This project is licensed under the MIT License - see the LICENSE.txt file for de
 
 ## Citation
 
-Min Zeng, Jingwei Lu, Yiming Li, Rui Yin, Chengqian Lu, Fei Guo, Min Li*,"CellCircLoc: Deep Neural Network for Predicting and Explaining Cell line-specific CircRNA Subcellular Localization"
+Min Zeng, Jingwei Lu, Yiming Li, Chengqian Lu, Shichao Kan, Fei Guo, Min Li*,"CellCircLoc: Deep Neural Network for Predicting and Explaining Cell line-specific CircRNA Subcellular Localization"
 
   
   
