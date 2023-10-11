@@ -40,11 +40,11 @@ The hyperparameters are then introduced
 
 seed: the random seed
 
-cell_line:show the training cell line. To change the cell line,please replace the 'data.pkl' in main directory
+cell_line: show the training cell line. To change the cell line,please replace the 'data.pkl' in main directory
 
-max_len: Maximum nucleotide length. Those exceeding the maximum length will be discarded
+max_len: maximum nucleotide length. Those exceeding the maximum length will be discarded
 
-epoch_num: Num of epoch
+epoch_num: num of epoch
 
 batch_size: batch size
 
@@ -80,7 +80,7 @@ n_list: kernel size of convolutional filters in attentive convolution Transforme
 
 repeat_num: repeated blocks of each kernel size in attentive convolution Transformer blocks
 
-act_dropout: droupout in attentive convolution Transformer blocks
+act_dropout: dropout in attentive convolution Transformer blocks
 
 
 
