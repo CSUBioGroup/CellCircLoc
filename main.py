@@ -88,8 +88,8 @@ os.environ['PYTHONHUSHSEED'] = str(random_seed)
 warnings.filterwarnings('ignore')
 if torch.cuda.is_available():
     num_workers = 0
-    device = torch.device("cuda:" + str(3))
-    torch.cuda.set_device(3)
+    device = torch.device("cuda:" + str(0))
+    torch.cuda.set_device(0)
 else:
     num_workers = 0
     device = torch.device("cpu")
